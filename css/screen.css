@@ -1,0 +1,36 @@
+body {
+	background-color: #7E8287;
+}
+
+h1 {
+		font-size: 1.5em;
+	}
+	
+label {
+	font-size: 1em;
+	text-align: left;
+}
+	
+div {
+	padding-left: 0rem;
+}
+
+@media screen and (min-width: 480px) {
+
+h1 {
+	font-size: 3em;
+}
+
+label {
+	font-size: 1.5em;
+	text-align: right;
+}
+
+div {
+	padding-left: 1rem;
+}
+
+#button {
+	height: 2.5em;
+	width: 5em;
+}
