@@ -22,23 +22,24 @@ div {
 
 @media screen and (min-width: 480px) {
 
-h1 {
-	font-size: 3em;
-	text-align: left;
-}
+  h1 {
+		font-size: 3em;
+		text-align: left;
+  }
 
-label {
-	font-size: 1.5em;
-}
+  label {
+		font-size: 1.5em;
+  }
 
-div {
-	padding-left: 1rem;
-	padding-top: .5rem;
-	text-align: left;
-}
+  div {
+		padding-left: 1rem;
+		padding-top: .5rem;
+		text-align: left;
+  }
 
-#button {
-	text-align: left;
-	height: 2.5em;
-	width: 5em;
+  #button {
+		text-align: left;
+		height: 2.5em;
+		width: 5em;
+  }
 }
