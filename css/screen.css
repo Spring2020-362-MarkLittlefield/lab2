@@ -33,10 +33,12 @@ label {
 
 div {
 	padding-left: 1rem;
+	padding-top: .5rem;
 	text-align: left;
 }
 
 #button {
+	text-align: left;
 	height: 2.5em;
 	width: 5em;
 }
