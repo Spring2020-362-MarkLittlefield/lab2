@@ -19,6 +19,7 @@ div {
 
 h1 {
 	font-size: 3em;
+	text-align: center;
 }
 
 label {
@@ -28,6 +29,7 @@ label {
 
 div {
 	padding-left: 1rem;
+	text-align: center;
 }
 
 #button {
