@@ -13,23 +13,25 @@ label {
 	
 div {
 	padding-left: 0rem;
+	text-align: center;
+}
+#button {
+	text-align: center;
 }
 
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 700px) {
 
 h1 {
 	font-size: 3em;
-	text-align: center;
 }
 
 label {
 	font-size: 1.5em;
-	text-align: right;
 }
 
 div {
 	padding-left: 1rem;
-	text-align: center;
+	text-align: left;
 }
 
 #button {
